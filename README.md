@@ -9,6 +9,7 @@ You can reach me by :
 [LinkedIn](https://www.linkedin.com/in/ivy-hw-lee/)
 
 <hr>
+
 ## Projects
 
 **Sidekick** _(BCIT's Hack the Break 2023 hackathon)_
