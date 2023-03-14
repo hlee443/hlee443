@@ -43,43 +43,43 @@ You can reach me by :
 **Frontend**
 
 <table>
-  <tr>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+  <tr style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="./images/javascript.svg" alt="JavaScript" width="30" />
         <br />
         JavaScript
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://reactjs.org/">
         <img src="./images/react.svg" alt="React" width="30" />
         <br />
         React
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://reactnative.dev/">
         <img src="./images/react.svg" alt="React Native" width="30" />
         <br />
         React Native
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://tailwindcss.com/">
         <img src="./images/tailwindcss.svg" alt="Tailwind" width="30" />
         <br />
         Tailwind
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://nextjs.org/">
         <img src="./images/nextjs.svg" alt="Next.js" width="30" />
         <br />
         Next.js
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://www.figma.com/">
         <img src="./images/figma.svg" alt="Figma" width="30" />
         <br />
@@ -92,36 +92,36 @@ You can reach me by :
 **Backend**
 
 <table>
-  <tr>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+  <tr style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
         <img src="./images/csharp.svg" alt="C#" width="30" />
         <br />
         C#
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://nodejs.org/">
         <img src="./images/nodejs.svg" alt="Node.js" width="30" />
         <br />
         Node.js
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://expressjs.com/">
         <img src="./images/express.svg" alt="Express.js" width="30" />
         <br />
         Express.js
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://dotnet.microsoft.com/apps/aspnet">
         <img src="./images/dot-net.svg" alt=".NET & ASP.NET" width="30" />
         <br />
         .NET & ASP.NET
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://www.mysql.com/">
         <img src="./images/mysql.svg" alt="MySQL" width="30" />
         <br />
@@ -129,36 +129,36 @@ You can reach me by :
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+  <tr style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://www.postgresql.org/">
         <img src="./images/postgresql.svg" alt="PostgreSQL" width="30" />
         <br />
         PostgreSQL
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://www.mongodb.com/">
         <img src="./images/mongodb.svg" alt="MongoDB" width="30" />
         <br />
         MongoDB
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://restfulapi.net/">
         <img src="./images/restapi.svg" alt="REST API" width="30" />
         <br />
         REST APIs
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://next-auth.js.org/">
         <img src="./images/nextauth.png" alt="NextAuth" width="30" />
         <br />
         NextAuth
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://socket.io/">
         <img src="./images/websocket.svg" alt="WebSockets" width="30" />
         <br />
@@ -171,36 +171,36 @@ You can reach me by :
 **Deployment and project management**
 
 <table>
-  <tr>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+  <tr style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://www.heroku.com/">
         <img src="./images/heroku.svg" alt="Heroku" width="30" />
         <br />
         Heroku
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://railway.app/">
         <img src="./images/railway.png" alt="Railway" width="30" />
         <br />
         Railway
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://vercel.com/">
         <img src="./images/vercel.svg" alt="Vercel" width="30" style="background-color:black" />
-        <br />
+        <br />style="background-color:#DEE4
         Vercel
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://azure.microsoft.com/en-us/">
         <img src="./images/azure.svg" alt="Microsoft Azure" width="30" />
         <br />
         Microsoft Azure
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://github.com/">
         <img src="./images/github.svg" alt="GitHub" width="30" />
         <br />
@@ -208,15 +208,15 @@ You can reach me by :
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+  <tr style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://www.atlassian.com/software/jira">
         <img src="./images/jira.svg" alt="Jira" width="30" />
         <br />
         Jira
       </a>
     </td>
-    <td align="center" width="75" height="75" style="background-color:#DEE4E7">
+    <td align="center" width="75" height="75">
       <a href="https://trello.com/">
         <img src="./images/trello.svg" alt="Trello" width="30" />
         <br />
