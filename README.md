@@ -16,23 +16,31 @@ You can reach me by :
 - Role: Front-end Developer
 - All-in-one platform designed to help professionals stay ahead of the curve and excel in their careers. Our team implemented two features: Bug Hunt, which serves as a mini-game for the user to practice their debugging skills, and Work Wise, which acts as an interview workplace assessment. We used React, Flask (Python), and the OpenAI API, and deployed it using Render and Vercel.
   I was responsible for implementing the user interface using React and Tailwind, as well as integrating with the backend API to fetch and display data.
+  <br>
+
   [Click for Devpost](https://devpost.com/software/sidekick-3pwb7e)
   [Click for live Demo](https://sidekick-front-end.vercel.app/)
 
 **PathFinder**
 
 - Web app that reformats files and websites for easier readability for students with dyslexia and/or other reading/comprehension difficulties. Our team used React, Node.js, and AWS for the project, and deployed it using Vercel.
+  <br>
+
   [Click for Github Repo](https://github.com/hlee443/PathFinder-Athena)
   [Click for live Demo](https://pathfinder-athena.vercel.app/)
 
 **Word-Gotchu**
 
 - Pixel styled web platform game based on Wordle and original characters known as 'Gotchus' that battle against each other in an arena. Build with Javascript, CSS, EJS, Firebase.
+  <br>
+
   [Click for Github Repo](https://github.com/iantelli/word-gotchu)
 
 **Cibo** _(Currently in Development)_
 
 - An app that is designed to optimize the food supply so that users can track their food inventory and expiration dates, efficiently cook with the existing food products, and better plan their grocery expenditures to save money and reduce the food waste.
+  <br>
+
   [Click for Github Repo](https://github.com/myCibo/myCiboNative)
 
 <hr>
@@ -40,6 +48,7 @@ You can reach me by :
 ### Some of the technologies and tools that I work with:
 
 **Frontend**
+
 <table>
   <tr>
     <td align="center" width="75" height="75">
@@ -87,8 +96,8 @@ You can reach me by :
   </tr>
 </table>
 
-
 **Backend**
+
 <table>
   <tr>
     <td align="center" width="75" height="75">
@@ -166,8 +175,8 @@ You can reach me by :
   </tr>
 </table>
 
-
 **Deployment and project management**
+
 <table>
   <tr>
     <td align="center" width="75" height="75">
@@ -232,6 +241,3 @@ You can reach me by :
 - [ ] Python
 - [ ] MongoDB
 - [ ] AWS Lambda
-
-
-
