@@ -34,7 +34,7 @@ As a full-stack web development student with a strong passion for creating visua
 - Pixel styled web platform game based on Wordle and original characters known as 'Gotchus' that battle against each other in an arena. Build with Javascript, CSS, EJS, Firebase.<br>
   [Click for Github Repo](https://github.com/iantelli/word-gotchu)
 
-**Cibo** _(Currently in Development)_
+**Cibo**
 
 - An app that is designed to optimize the food supply so that users can track their food inventory and expiration dates, efficiently cook with the existing food products, and better plan their grocery expenditures to save money and reduce the food waste.<br>
   [Click for Github Repo](https://github.com/myCibo/myCiboNative)
